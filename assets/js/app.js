@@ -4,7 +4,7 @@ var gameplay = [
     "video2":"",
     "link":"https://www.watchcartoononline.com/adventure-time-season-5-episode-12-vault-of-bones",
     "image":"https://vignette4.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/f3/S5_e12_Finn_and_Flame_Princess_running_into_a_dungeon.PNG/revision/latest?cb=20130219200825",  
-    "question":"Your name is Finn, you are the last living human in the world millenia after the end of human civilization.  Your girlfriend is the princess of the flame kingdom (she is made of fire, that will be important later).  She is feeling conflicted because everyone in her family is evil and she is not sure if she is good or evil herself.  To help her take her mind off things, you suggest finding and looting a dungeon, after all you are an adventurer and slaying evil things is your favorite thing to do.  You and Flame Princess set off in search of a dungeon armed only with your Demon Blood Sword and her magical fire-powers.",
+    "question":"Your name is Finn, you are the last living human in the world millenia after the end of human civilization.  Your girlfriend is the princess of the flame kingdom (she is made of fire, that will be important later).  She is feeling conflicted because everyone in her family is evil and she is not sure if she is good or evil herself.  To help her take her mind off things, you suggest finding and looting a dungeon, after all you are an adventurer and slaying evil things is your favorite thing to do.  You and Flame Princess set off in search of a dungeon armed only with your Demon Blood Sword and her magical fire-powers.(Full episode available in link at bottom of page)",
     "answers":[
           {"title":"I'm ready, let's go find a dungeon!","response":1}
           ]
