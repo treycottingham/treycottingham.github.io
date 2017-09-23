@@ -1,2 +1,0 @@
-# textBasedRPG
-text based rpg
