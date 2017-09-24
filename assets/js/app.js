@@ -209,7 +209,7 @@ var gameplay = [
       "video":"",
       "video2":"https://www.youtube.com/watch?v=gjASJwBm4eo",
       "link":"",
-      "image":"",
+      "image":"http://68.media.tumblr.com/11fd3720c4a0f94d99f60276c770c95d/tumblr_n17dn1xy831t5ct7wo5_r1_500.gif",
       "question":"(Watch video for the exciting climax of the story) Flame Princess saves your butt and you leave the dungeon with the chest from before.",
       "answers":[
           {"title":"Open the chest.","response":21},
@@ -284,55 +284,3 @@ window.setLocation = function(num) {
 }
 
 window.printCurrentLocation();
-
-
-/*Create functions for options one and two
-
-let button1 = document.getElementById('button1');
-let button2 = document.getElementById('button2');
-let stages = document.getElementById('stages');
-let situations = document.getElementById('situations');
-
-var story = {
-  currentSituation: {},
-  currentOption1: {},
-  currentOption2: {},
-
-}
-
-//<iframe width="640" height="360" src="https://www.youtube.com/embed/2oYJBtnPsp8" frameborder="0" allowfullscreen></iframe>
-//https://www.youtube.com/embed/2oYJBtnPsp8
-
-button1.addEventListener('click', option1);
-button2.addEventListener('click', option2);
-
-//function replace() {
-//  situations = ''
-//}
-
-function option1() {
-  situations.innerHTML = ''
-}
-
-function option2() {
-  alert ("You chose option 2");
-}
-
-function getCurrentSituation(currentSituation) {
-  var currentSituation = {};
-}
-
-
-//document.getElementById('situations').*/
-
-
-
-//pixel img of rock http://piskel-imgstore-b.appspot.com/img/b334771c-9e4d-11e7-8375-93de5053410d.gif
-//img of tree  http://piskel-imgstore-b.appspot.com/img/64a30d87-9e4e-11e7-a0f5-93de5053410d.gif
-//img of fp   http://piskel-imgstore-b.appspot.com/img/9dc5308f-9e4f-11e7-8502-93de5053410d.gif
-
-
-//light torch
-//pick up gold piece
-//come across large skeleton
-//
