@@ -5,4 +5,4 @@
 * Use DOM manipulation
 * Import from an external API
 #### Link to deployed game
-[click here](treycottingham.github.io)
+[click here](https://treycottingham.github.io/)
